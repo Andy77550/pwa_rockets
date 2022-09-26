@@ -2,5 +2,9 @@
 
 Aller dans pwa_22.09.19/src
 
-Exécuter npm start 
+Exécuter 
+```
+npm start 
+
+```
 Puis localhost:8080
